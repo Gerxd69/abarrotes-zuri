@@ -1,0 +1,6 @@
+database/*.db
+__pycache__/
+*.pyc
+vistas/__pycache__/
+modelos/__pycache__/
+database/__pycache__/
